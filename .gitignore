@@ -1,0 +1,7 @@
+build/*
+index.html
+js/*
+node_modules/*
+package-lock.json
+package.json
+webpack.config.js
